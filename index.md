@@ -30,19 +30,19 @@ L'équipe est composée de 4 à 6 étudiants, assumant chacun des rôles spéfic
 
 ## Livrables du projet
 
-Les livrables du projet sont mis à disposition de toutes les parties prenantes, tout au cours du projet.
+Les livrables du projet sont mis à disposition de toutes les parties prenantes, tout au cours du projet. Les livrables doivent être déposés au format PDF dans un espace partagé par les membres de l'équipe, le sponsor et communiqué à l'enseignant.
 
-### Livrables amont
+### Livrables amont minimaux 
 
 #### Note de Cadrage ([00_cadrage.doc](assets/templates/00_cadrage.doc))
 
 Elle explique et  présente le projet de manière synthétique, tout en décrivant le plus les différents moyens et étapes de réalisation du projet (Livrables, jalons, tâches) ainsi que l’ensemble des aspects et contraintes à considérer.  La note de cadrage est préparée par l'équipe et validée par le sponsor.
 
-#### Plan de travail (01_PLAN.xlsx)
+#### Plan de travail ([01_PLAN.xlsx](assets/templates/01_PLAN.xlsx)))
 
 Le plan de travail propose une vision initiale du découpage en phases et en livrables 
 
-#### Plan de Gestion des compétences
+#### Plan de Gestion des compétences ([03_plan_de_gestion_des_compétences.doc](assets/templates/03_plan_de_gestion_des_compétences.doc))
 
 L’objectif du projet est de développer et consolider des compétences visées dans la formation MIAGE en groupe, dans un contexte professionnel. La composition de l'équipe et les rôles assignés à chaque membre doivent couvrir l'ensemble des compétences qu'il est nécessaire de développer pour la conduite et la réussite du projet.
 
@@ -52,9 +52,13 @@ Chaque étudiant complètera son profil en sélectionnant, pour chacune des dime
 
 Le plan de gestion des compétences est préparé par l'équipe et validé par le tuteur enseignant.
 
-### Compte rendu du comité de projet
+### Comptes rendus des comités de projet ((02_Project_report.doc)[assets/templates/02_Project_report.doc])
 
 En fonction de la méthodologie projet déterminée conjointement par l'équipe et le sponsor (cascade, agile, hybride...) un rapport d'avancement régulier (mensuel ou bi-mensuel) est rédigé par l'équipe, contenant a minima les comptes rendus des comités de projet, l'état d'avancement, les alertes soulevées et un plan d'action.
+
+### Autres livrables 
+
+D'autres livrables peuvent être définis dans la note de cadrage en fonction du contexte projet. Ceux-ci doivent être produits et archivés avec le même soin que les livrables minimaux prévus sur cette page.
 
 ### Livrables finaux et soutenance
 
