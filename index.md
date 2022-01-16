@@ -11,6 +11,7 @@ L’intérêt pour les entreprises est de bénéficier des compétences des étu
 Réalisés par groupe de 4 à 6, les projets M1 permettent, d’une part d’utiliser les notions vues en cours dans le cadre d’un projet transversal global et d’autre part de mieux appréhender leur futur rôle dans l’industrie, tout en explorant une nouvelle façon de travailler en mode projet.
 
 Quelques thématiques de projets de spécialité :
+
 * Informatique : modélisation et conception d’une plate­forme web, d'une application métier
 * Organisation: cartographie des processus métiers, recommandation d'amélioration
 * Veille technologique: étude de différentes alternatives technique en réponse à un besoin, établissement de préconisations
