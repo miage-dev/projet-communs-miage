@@ -2,122 +2,60 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Projet Commun M1 CLASS/APP
 
-[Link to another page](./another-page.html).
+La « pédagogie par projets » représente à la MIAGE Sorbonne une part significative de la formation. Elle permet aux étudiants de travailler par groupe sur des cas concrets, leur offrant ainsi une connexion directe avec l’industrie et une confrontation avec des problématiques réelles.
 
-There should be whitespace between paragraphs.
+L’intérêt pour les entreprise est de bénéficier des compétences des étudiants encadrés par des professionnels. C’est une réelle opportunité pour démarrer ou progresser sur un sujet in­novant ou en cours de développement.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Réalisés par groupe de 4 à 6, les projets M1 permettent, d’une part d’utiliser les notions vues en cours dans le cadre d’un projet transversal global et d’autre part de mieux appréhender leur futur rôle dans l’industrie, tout en explorant une nouvelle façon de travailler en mode projet.
 
-# Header 1
+Quelques thématiques de projets de spécialité :
+    * Informatique : modélisation giet conception d’une plate­forme web, d'une application métier
+    * Organisation: cartographie des processus métiers, recommandation d'amélioration
+    * Veille technologique: étude de différentes alternatives technique en réponse à un besoin, établissement de préconisations
+    * Gestion de projet: mise à disposition d'un kit de gestion de projet répondant aux besoins spécifiques du sponsor.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Contexte projet
 
-## Header 2
+## le sponsor
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Les étudiants doivent trouver eux-mêmes un sponsor pour leurs projets. Le sponsor peut être une entreprise, une association, un projet M2 de création d’entreprises cherchant à développer un Minimum Viable Product, un mémoire de recherche de M2 de type “proof of concept” nécessitant un accompagnement technique dans la production d'artéfacts logiciels.
 
-### Header 3
+Le sponsor doit avoir un rôle actif dans le projet, passant par exemple par la définition des exigences, la validation d'un cahier des charges, la validation des livrables et la participation au comité de projet.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## l'équipe
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+L'équipe est composée de 4 à 6 étudiants, assumant chacun des rôles spéficiques attendus en fonction du contexte projet.
 
-#### Header 4
+## Livrables du projet
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Les livrables du projet sont mis à disposition de toutes les parties prenantes, tout au cours du projet.
 
-##### Header 5
+### Livrables amont
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+#### Note de Cadrage ([00_cadrage.doc](assets/templates/00_cadrage.doc))
 
-###### Header 6
+Elle explique et  présente le projet de manière synthétique, tout en décrivant le plus les différents moyens et étapes de réalisation du projet (Livrables, jalons, tâches) ainsi que l’ensemble des aspects et contraintes à considérer.  La note de cadrage est préparée par l'équipe et validée par le sponsor.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### Plan de travail (01_PLAN.xlsx)
 
-### There's a horizontal rule below this.
+Le plan de travail propose une vision initiale du découpage en phases et en livrables 
 
-* * *
+#### Plan de Gestion des compétences
 
-### Here is an unordered list:
+L’objectif du projet est de développer et consolider des compétences visées dans la formation MIAGE en groupe, dans un contexte professionnel. La composition de l'équipe et les rôles assignés à chaque membre doivent couvrir l'ensemble des compétences qu'il est nécessaire de développer pour la conduite et la réussite du projet.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Une fois l'expression du besoin définie par le sponsor, l'équipe se réunit pour définir les rôles nécessaires à l'accomplissement des tâches du projet en suivant la norme European Norm (EN) 16234-1 European e-Competence Framework (e-CF) https://ecfexplorer.itprofessionalism.org. Les niveaux de compétences associées à ces rôles sont ensuite affinés au cas par cas, en fonction du contexte projet pour arriver à un cartographie précise des besoins en compétences du projet.
 
-### And an ordered list:
+Chaque étudiant complètera son profil en sélectionnant, pour chacune des dimensions, les niveaux compétences qu'il estime avoir en début de projet, en justifiant par son expérience professionnelle, personnelle ou par ses acquis de la formation. Si tous les besoins en compétence du projet ne sont pas satisfaits, un plan d'action équipe doit être mis en place pour organiser la montée en compétence des membres de l'équipe.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Le plan de gestion des compétences est préparé par l'équipe et validé par le tuteur enseignant.
 
-### And a nested list:
+### Compte rendu du comité de projet
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+En fonction de la méthodologie projet déterminée conjointement par l'équipe et le sponsor (cascade, agile, hybride...) un rapport d'avancement régulier (mensuel ou bi-mensuel) est rédigé par l'équipe, contenant a minima les comptes rendus des comités de projet, l'état d'avancement, les alertes soulevées et un plan d'action.
 
-### Small image
+### Livrables finaux et soutenance
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+À la fin du projet, les différents livrables définis dans la note de cadrage sont transmis à toutes les parties prenantes. La soutenance du projet commun
