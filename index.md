@@ -52,7 +52,7 @@ Chaque étudiant complètera son profil en sélectionnant, pour chacune des dime
 
 Le plan de gestion des compétences est préparé par l'équipe et validé par le tuteur enseignant.
 
-### Comptes rendus des comités de projet ((02_Project_report.doc)[assets/templates/02_Project_report.doc])
+### Comptes rendus des comités de projet ([02_Project_report.doc](assets/templates/02_Project_report.doc))
 
 En fonction de la méthodologie projet déterminée conjointement par l'équipe et le sponsor (cascade, agile, hybride...) un rapport d'avancement régulier (mensuel ou bi-mensuel) est rédigé par l'équipe, contenant a minima les comptes rendus des comités de projet, l'état d'avancement, les alertes soulevées et un plan d'action.
 
