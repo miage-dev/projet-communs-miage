@@ -6,15 +6,15 @@ layout: default
 
 La « pédagogie par projets » représente à la MIAGE Sorbonne une part significative de la formation. Elle permet aux étudiants de travailler par groupe sur des cas concrets, leur offrant ainsi une connexion directe avec l’industrie et une confrontation avec des problématiques réelles.
 
-L’intérêt pour les entreprise est de bénéficier des compétences des étudiants encadrés par des professionnels. C’est une réelle opportunité pour démarrer ou progresser sur un sujet in­novant ou en cours de développement.
+L’intérêt pour les entreprises est de bénéficier des compétences des étudiants encadrés par des professionnels. C’est une réelle opportunité pour démarrer ou progresser sur un sujet in­novant ou en cours de développement.
 
 Réalisés par groupe de 4 à 6, les projets M1 permettent, d’une part d’utiliser les notions vues en cours dans le cadre d’un projet transversal global et d’autre part de mieux appréhender leur futur rôle dans l’industrie, tout en explorant une nouvelle façon de travailler en mode projet.
 
 Quelques thématiques de projets de spécialité :
-    * Informatique : modélisation giet conception d’une plate­forme web, d'une application métier
-    * Organisation: cartographie des processus métiers, recommandation d'amélioration
-    * Veille technologique: étude de différentes alternatives technique en réponse à un besoin, établissement de préconisations
-    * Gestion de projet: mise à disposition d'un kit de gestion de projet répondant aux besoins spécifiques du sponsor.
+* Informatique : modélisation et conception d’une plate­forme web, d'une application métier
+* Organisation: cartographie des processus métiers, recommandation d'amélioration
+* Veille technologique: étude de différentes alternatives technique en réponse à un besoin, établissement de préconisations
+* Gestion de projet: mise à disposition d'un kit de gestion de projet répondant aux besoins spécifiques du sponsor.
 
 # Contexte projet
 
