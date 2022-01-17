@@ -57,6 +57,12 @@ Le plan de gestion des compétences est préparé par l'équipe et validé par l
 
 En fonction de la méthodologie projet déterminée conjointement par l'équipe et le sponsor (cascade, agile, hybride...) un rapport d'avancement régulier (mensuel ou bi-mensuel) est rédigé par l'équipe, contenant a minima les comptes rendus des comités de projet, l'état d'avancement, les alertes soulevées et un plan d'action.
 
+### Découpage du travail ([04_Work_Breakdown.xlsx](assets/templates/04_Work_Breakdown.xlsx)))
+
+Le découpage du travail permet de rendre compte d'un découpage plus fin entre les phase de travail, les tâches précises et les personnes assignées aux tâches. Celui-ci est mis à jour à mesure que les tâches sont précisées et affinées dans les comptes rendu de comités de projet.
+
+
+
 ### Autres livrables 
 
 D'autres livrables peuvent être définis dans la note de cadrage en fonction du contexte projet. Ceux-ci doivent être produits et archivés avec le même soin que les livrables minimaux prévus sur cette page.
