@@ -69,4 +69,8 @@ D'autres livrables peuvent être définis dans la note de cadrage en fonction du
 
 ### Livrables finaux et soutenance
 
-À la fin du projet, les différents livrables définis dans la note de cadrage sont transmis à toutes les parties prenantes. La soutenance du projet commun
+À la fin du projet, les différents livrables définis dans la note de cadrage sont transmis à toutes les parties prenantes. Dans ces livrables, on trouve à minima les archives des livrables amont, les comptes rendus des comités de projet.
+
+La soutenance du projet commun est découpée en deux parties: 
+* [50% du temps] une première partie présentant les résultats du projet.
+* [50% du temps] une deuxième partie présentant le déroulé du projet, les difficultés rencontrées, les actions menées pour pallier ces difficultés et un retour rétrospectif de chaque membre de l'équipe
