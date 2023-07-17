@@ -1,7 +1,9 @@
 ---
 title: "Cadre des projets"
-weight: 1
+weight: 3
 ---
+
+
 La pédagogie par projet offre aux étudiants une approche pratique, interactive et stimulante de l'apprentissage, favorisant l'engagement, l'autonomie, la créativité et le développement de compétences transversales.
 
 L'entreprise bénéficie des compétences des étudiants encadrés par des professionnels. C’est une réelle opportunité pour démarrer ou progresser sur un sujet in­novant ou en cours de développement.
