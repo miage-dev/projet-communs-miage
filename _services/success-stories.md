@@ -1,6 +1,6 @@
 ---
 title: "Success Stories"
-weight: 1
+weight: 6
 ---
 
 Découvrez le témoignage des nombreux sponsors ont fait confiance à nos étudiants et ont été convaincus par le professionalisme et la rigueur du travail effectué.
