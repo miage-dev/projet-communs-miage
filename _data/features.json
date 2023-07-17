@@ -1,0 +1,29 @@
+[
+  {
+    "title": "50+ Etudiants",
+    "description": "Par équipe de 6, nos étudiants répondent à vos défis!",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Compétences reconnues",
+    "description": "Nos étudiants sont tous des professionels en apprentissage",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Suivi académique",
+    "description": "Les projets sont suivi par le personnel de l'université",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

@@ -1,5 +1,46 @@
-title: Projets Communs M1 
-description: Ressources pour les Projets communs MIAGE Sorbonne
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-leap-day
+baseurl: '/'
+permalink: pretty
+title: 'Projets tuteurés Master MIAGE Sorbonne'
+
+logo:
+  mobile: "images/miage/logo.png"
+  mobile_height: "38px"
+  mobile_width: "300px"
+  desktop: "images/miage/logo.png"
+  desktop_height: "76px"
+  desktop_width: "600px"
+
+home: 
+  limit_services: 6
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
