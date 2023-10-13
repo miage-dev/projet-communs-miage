@@ -1,6 +1,6 @@
 ---
 title: "Les Livrables"
-weight: 2
+weight: 4
 ---
 
 Les livrables du projet sont mis à disposition de toutes les parties prenantes, tout au cours du projet. Les livrables doivent être déposés au format PDF dans un espace partagé par les membres de l'équipe, le sponsor et communiqué à l'enseignant.
@@ -27,11 +27,11 @@ Le plan de gestion des compétences est préparé par l'équipe et validé par l
 
 ## Comptes rendus des comités de projet ([02_Project_report.doc](/assets/templates/02_Project_report.doc))
 
-En fonction de la méthodologie projet déterminée conjointement par l'équipe et le sponsor (cascade, agile, hybride...) un rapport d'avancement régulier (mensuel ou bi-mensuel) est rédigé par l'équipe, contenant a minima les comptes rendus des comités de projet, l'état d'avancement, les alertes soulevées et un plan d'action.
+En fonction de la méthodologie projet déterminée conjointement par l'équipe et le sponsor (cascade, agile, hybride...) un rapport d'avancement régulier (mensuel ou bimensuel) est rédigé par l'équipe, contenant a minima les comptes rendus des comités de projet, l'état d'avancement, les alertes soulevées et un plan d'action.
 
 ## Découpage du travail ([04_Work_Breakdown.xlsx](/assets/templates/04_Work_Breakdown.xlsx)))
 
-Le découpage du travail permet de rendre compte d'un découpage plus fin entre les phase de travail, les tâches précises et les personnes assignées aux tâches. Celui-ci est mis à jour à mesure que les tâches sont précisées et affinées dans les comptes rendu de comités de projet.
+Le découpage du travail permet de rendre compte d'un découpage plus fin entre les phases de travail, les tâches précises et les personnes assignées aux tâches. Celui-ci est mis à jour à mesure que les tâches sont précisées et affinées dans les comptes rendus de comités de projet.
 
 ## Autres livrables
 
