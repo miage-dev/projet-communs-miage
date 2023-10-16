@@ -40,6 +40,8 @@ La réalisation du cadrage d'un projet pour une borne de téléservice pour les 
 
 # Success Stories
 
+![](/images/miage/happy-sponsor.webp)
+
 Découvrez le témoignage des nombreux sponsors ont fait confiance à nos étudiants et ont été convaincus par le professionalisme et la rigueur du travail effectué.
 
 ## P. C. (Chef d'établissement, Seine-et-Marne)
