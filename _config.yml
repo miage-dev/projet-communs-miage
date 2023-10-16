@@ -4,11 +4,11 @@ title: 'Projets tuteurés Master MIAGE Sorbonne'
 
 logo:
   mobile: "images/miage/logo.png"
-  mobile_height: "76px"
-  mobile_width: "600px"
+  mobile_height: "300px"
+  mobile_width: "300px"
   desktop: "images/miage/logo.png"
-  desktop_height: "76px"
-  desktop_width: "600px"
+  desktop_height: "300px"
+  desktop_width: "300px"
 
 home: 
   limit_services: 6
