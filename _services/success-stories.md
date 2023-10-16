@@ -5,7 +5,7 @@ weight: 6
 
 # Exemples de projet
 
-![](/images/miage/team02.png)
+![](/images/miage/team02.webp)
 
 Quelques thématiques de projets de spécialité :
 
