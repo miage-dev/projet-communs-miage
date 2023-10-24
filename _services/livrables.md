@@ -7,6 +7,11 @@ Les livrables du projet sont mis à disposition de toutes les parties prenantes,
 
 ## Livrables amont minimaux 
 
+### Fiche d'intérêt ([06_fiche_d_interet.pdf](/assets/templates/06_fiche_d_interet.pdf))
+
+Elle permet d'identifier le sponsor, l'équipe et le contexte dans lequel le projet peut se dérouler. Elle permet d'obtenir l'approbation de l'équipe enseignante pour la continuation du projet.
+
+
 ### Note de Cadrage ([00_cadrage.doc](/assets/templates/00_cadrage.doc))
 
 Elle explique et  présente le projet de manière synthétique, tout en décrivant le plus les différents moyens et étapes de réalisation du projet (Livrables, jalons, tâches) ainsi que l’ensemble des aspects et contraintes à considérer.  La note de cadrage est préparée par l'équipe et validée par le sponsor.
