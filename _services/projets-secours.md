@@ -1,3 +1,9 @@
+---
+title: "Projets de Secours"
+weight: 3
+---
+
+
 # Projets de Secours
 
 Ces projets de secours sont réservés aux étudiants n'ayant pas trouvé de sponsors avant la deadline. Ils sont sanctionnés d'une pénalité de 5pt sur la note finale.
