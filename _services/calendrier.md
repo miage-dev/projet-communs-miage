@@ -6,8 +6,6 @@ weight: 2
 Dates importantes pour les projets communs.
 
 
-![](/images/miage/gantt.png)
-
 # Phase de recherche de sponsors.
 
 Jusqu'au **15 novembre 2024**, les étudiants cherchent les entreprises sponsor. Ceux-ci doivent compléter [la fiche d'intérêt](/assets/templates/06_fiche_d_interet.pdf) et la retourner à l'adresse indiquée avant cette date.
