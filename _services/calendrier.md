@@ -22,4 +22,6 @@ La phase opérationnelle du projet commence le 27 janvier 2025, jusqu'au 6 juin 
 
 # Soutenance du projet
 
-Les soutenances sont prévues les 30 juin juillet 2025, le sponsor peut demander une présoutenance au groupe d'étudiant avec cette date. Il peut également assister à la soutenance à l'Université.
+7 jours avant la soutenance, chacun des groupes envoi le lien d'un drive avec l'ensenble des livrables projets (amon, aval) et également [la fiche bilan du projet](/assets/templates/05_retour_sponsor/05_retour_sponsor.pdf), qui doit être envoyée par le sponsor à l'adresse indiquée.
+
+Les soutenances sont prévues les 30 juin 2025, le sponsor peut demander une présoutenance au groupe d'étudiant avec cette date. Il peut également assister à la soutenance à l'Université.
