@@ -10,7 +10,7 @@ Dates importantes pour les projets communs.
 
 # Phase de recherche de sponsors.
 
-Jusqu'au **15 novembre 2024**, les étudiants cherchent les entreprises sponsor.
+Jusqu'au **15 novembre 2024**, les étudiants cherchent les entreprises sponsor. Ceux-ci doivent compléter [la fiche d'intérêt](/assets/templates/06_fiche_d_interet.pdf) et la retourner à l'adresse indiquée avant cette date.
 
 # Phase d'écriture du cadrage du projet
 
