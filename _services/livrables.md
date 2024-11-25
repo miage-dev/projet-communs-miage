@@ -3,7 +3,7 @@ title: "Les Livrables"
 weight: 4
 ---
 
-Les livrables du projet sont mis à disposition de toutes les parties prenantes, tout au cours du projet. Les livrables doivent être déposés au format PDF dans un espace partagé par les membres de l'équipe, le sponsor et communiqué à l'enseignant.
+Les livrables du projet sont mis à disposition de toutes les parties prenantes, tout au cours du projet. Les livrables doivent être déposés dans l'outil collaboratif [https://collab.miage.dev](https://collab.miage.dev)
 
 ## Livrables amont minimaux 
 

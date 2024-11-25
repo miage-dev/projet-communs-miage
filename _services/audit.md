@@ -74,5 +74,5 @@ Chacunes des équipes d'audit devra conduire une mission d'audit, produire et di
 
 # Fichier lié
 
-* [template de rapport d'audit](assets/templates/audit/audit.rtf)
+* [template de rapport d'audit](/assets/templates/audit/audit.rtf)
 
